@@ -1,6 +1,6 @@
 # PART 1 Start the Platform
 
-The goal of this task is to run the entire platform locally.
+The goal of this task is to run the entire fullstack app locally.
 
 # Getting Started
 
